@@ -96,9 +96,5 @@ Based on the evaluation of several machine learning models, **XGBoost** and **Ra
 
 Moving forward, further optimizations and techniques such as **Boruta** for feature selection and additional hyperparameter tuning can be explored to improve the models' performance. The results of this project provide a solid foundation for building a real-time fraud detection system, where the trained models can be deployed for monitoring transactions as they occur.
 
-#### 7.0 Future Work
-- **Hyperparameter Tuning**: Additional tuning for models like **Random Forest** and **LightGBM** could be beneficial.
-- **Feature Engineering**: Techniques such as **Boruta** for feature selection can help improve model performance by focusing on the most impactful features.
-- **Real-Time Implementation**: The optimized model can be deployed in a real-time fraud detection system to monitor transactions as they occur and flag suspicious activity.
 
 
