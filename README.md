@@ -1,4 +1,4 @@
-### Combined Report: Fraud Detection System
+### Fraud Detection System
 
 #### 1.0 Introduction
 This project aims to build a fraud detection system using machine learning techniques to identify fraudulent financial transactions from a dataset containing transaction details. The system leverages various preprocessing steps, feature engineering, and a range of machine learning models to detect fraud effectively. The primary objective is to identify patterns and key features that help distinguish fraudulent transactions from legitimate ones.
