@@ -101,4 +101,4 @@ Moving forward, further optimizations and techniques such as **Boruta** for feat
 - **Feature Engineering**: Techniques such as **Boruta** for feature selection can help improve model performance by focusing on the most impactful features.
 - **Real-Time Implementation**: The optimized model can be deployed in a real-time fraud detection system to monitor transactions as they occur and flag suspicious activity.
 
-This project offers a strong foundation for implementing an effective fraud detection system, with **XGBoost** emerging as the top model for identifying fraudulent transactions in this dataset. Further refinements and optimizations can help enhance the system’s performance.
+
